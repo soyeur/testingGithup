@@ -9,6 +9,7 @@ public class Car {
 	
 	private Boolean sold;
 
+//	getter and setter
 	public int getMat() {
 		return mat;
 	}
